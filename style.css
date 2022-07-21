@@ -1,0 +1,47 @@
+.breadcumb_area {
+    padding-top: 1.5rem;
+}
+
+.header-section {
+    padding-bottom: 12vh;
+  }
+
+.shoe {
+    position: relative;
+    padding: 20px;
+    z-index: 10;
+  }
+  .piece:not(.outsole) {
+    position: absolute;
+    bottom: 7vw;
+  }
+  .midsole {
+    width: 20%;
+    left: 40%;
+    top: 33%;
+  }
+  .heel {
+    width: 20%;
+    left: 40%;
+  }
+  .outsole {
+    width: 20%;
+    position: relative;
+    left: 40%;
+    top: 124%;
+  }
+
+  .wrapper {
+    margin-top: 50%;
+    z-index: -10;
+  }
+
+  
+  h1 {
+    opacity: 0;
+  }
+
+  .greensock-icon {
+    opacity: 0;
+  }
+  
